@@ -2,15 +2,15 @@
 
 A desktop-based Parcel Management System developed using **C#** and **SQL Server**, designed to manage parcel operations efficiently for both users and delivery officers.
 
-## Features
+## 🚀 Features
 
-### User Module
+### 👤 User Module
 - Register and log in securely
 - Book a parcel with sender/receiver details
 - Track parcel delivery status
 - Contact support for queries
 
-### Officer Module
+### 🛠️ Officer Module
 - Register and log in with secure access
 - Book and assign parcel deliveries
 - Track and update delivery status
@@ -20,7 +20,7 @@ A desktop-based Parcel Management System developed using **C#** and **SQL Server
 
 - **Language:** C#
 - **Database:** SQL Server
-- 
+
 ## Authentication
 
 - Basic form-based authentication for both users and officers.
@@ -36,10 +36,11 @@ A desktop-based Parcel Management System developed using **C#** and **SQL Server
 - Role-based dashboards with analytics
 - Export reports as PDF/Excel
 - Email/SMS integration for parcel tracking
-- 
+  
 ## 📫 Contact
 
 - **Bhavanesh Arumugam** – Developer & Designer
+  
 Feel free to reach out for suggestions or collaborations:  
 📧 bhavaneshsamy2003@gmail.com
 🌐 [LinkedIn](www.linkedin.com/in/bhavanesh-arumugam-35857a1aa)
