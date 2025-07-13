@@ -43,7 +43,7 @@ A desktop-based Parcel Management System developed using **C#** and **SQL Server
   
 Feel free to reach out for suggestions or collaborations:  
 📧 bhavaneshsamy2003@gmail.com
-🌐 [LinkedIn](www.linkedin.com/in/bhavanesh-arumugam-35857a1aa)
+🌐 [LinkedIn] https://www.linkedin.com/in/bhavanesh-arumugam-35857a1aa/
 
 ---
 
